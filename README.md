@@ -118,6 +118,6 @@ Podemos fazer seleções para representar aquilo que estamos interessados. Por e
 Criado por Leonardo Gildo - Sinta-se à vontade para contribuições, críticas, dúvidas e/ou sugestões.
 
 <div  align="center"> 
-  <a href="https://www.linkedin.com/in/leonardo-gildo-a80334304?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd2bEXQV5TuS0Cc2AeutO%2FQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://bit.ly/LkdLeonardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "leo.marketing.brum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
