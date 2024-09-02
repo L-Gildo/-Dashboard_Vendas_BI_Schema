@@ -6,7 +6,6 @@
 * [Linguagens e tecnologias usadas](#linguagens-e-tecnologias-usadas)
 * [Passo a passo da construção do Dashboard](#passo-a-passo-da-construção-do-dashboard)
 * [Conclusões](#conclusões)
-* [Créditos](#créditos)
 * [Contato](#contato)
 
 ## Sobre o projeto
@@ -87,7 +86,7 @@ Voltando para o Power BI, pois agora podemos trabalhar no ambiente "Relatório",
 Começamos observando os dados e identificamos quais informações são importantes para por no Dashboard, como por exemplo, o valores totais de Faturamento, de custo e lucro, a quantidade de itens vendidos, e o faturamento por ano, mês, marca, produto e continente. Com essas informações, podemos construir o Dashboard abaixo.
 
 <div  align="center"> 
-  <img src="Imagens/Dashboard de Vendas - Sem a imagem de fundo.png">
+  <img src="imagens/Dashboard de Vendas - Sem a imagem de fundo.png">
 </div>
 
 * **Passo 5: Criando a tela de fundo do Dashboard**
@@ -95,7 +94,7 @@ Começamos observando os dados e identificamos quais informações são importan
 Usamos o [Canva](https://www.canva.com/design/DAFX0ukBc2A/jL29j0Qb_z62u_MPSdnkAA/view?utm_content=DAFX0ukBc2A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) para fazer a construção da imagem de fundo representada abaixo, mas poderia ter usado o Microsoft PowerPoint.
 
 <div  align="center"> 
-  <img src="Imagens/Imagem de Fundo.png">
+  <img src="imagens/Imagem de Fundo.png">
 </div>
 
 ## Conclusões
@@ -103,26 +102,22 @@ Usamos o [Canva](https://www.canva.com/design/DAFX0ukBc2A/jL29j0Qb_z62u_MPSdnkAA
 O Dashboard construído ficou da seguinte maneira:
 
 <div  align="center"> 
-  <img src="Imagens/Dashboard de Vendas - Finalizado.png">
+  <img src="imagens/Dashboard de Vendas - Finalizado.png">
 </div>
 
 
 Podemos fazer seleções para representar aquilo que estamos interessados. Por exemplo, se selecionarmos o ano de 2018, a marca "Contoso" e o produto "Telephoto Conversion Lens X400", vemos a imagem abaixo.
 
 <div  align="center"> 
-  <img src="Imagens/Dashboard de Vendas - Finalizado com seleção.png">
+  <img src="imagens/Dashboard de Vendas - Finalizado com seleção.png">
 </div>
 
-## Créditos 
-
-O desafio, bem como muitos detalhes de sua resolução, se devem ao Alon Pinheiro, do canal do 
-Youtube [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao).
 
 ## Contato
 
-Criado por Adriano Jr. G. Gonçalves - Sinta-se à vontade para contribuições, críticas, dúvidas e/ou sugestões.
+Criado por Leonardo Gildo - Sinta-se à vontade para contribuições, críticas, dúvidas e/ou sugestões.
 
 <div  align="center"> 
-  <a href="https://www.linkedin.com/in/sradriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:sradriano@uel.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-gildo-a80334304?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd2bEXQV5TuS0Cc2AeutO%2FQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "leo.marketing.brum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
